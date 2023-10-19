@@ -1,9 +1,9 @@
 #include "monty.h"
 /**
-  *f_sub- sustration
-  *@head: stack head
-  *@counter: line_number
-  *Return: no return
+  *f_sub - A sustration function
+  *@head: The stack head
+  *@counter: A line_number
+  *Return: returns nothing
  */
 void f_sub(stack_t **head, unsigned int counter)
 {
